@@ -1,0 +1,17 @@
+{
+  "name": "trpc-tanstack-router-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "@tanstack/react-query": "5.66.9",
+    "@trpc/tanstack-react-query": "11.0.0-rc.804"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3"
+  }
+}
