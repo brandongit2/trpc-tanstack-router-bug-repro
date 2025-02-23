@@ -18,5 +18,5 @@
 		"strictNullChecks": true,
 		"stripInternal": true
 	},
-	"files": ["index.ts"]
+	"files": ["index.ts", "index-workaround.ts"]
 }
